@@ -61,8 +61,9 @@ This project utilizes a trained machine learning model to classify emails. The t
 
 ## Screenshots
 
-![NotSpam](screenshots/Notspam.png)
-![Spam](screenshots/Spam.png)
+![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 2](screenshots/screenshot2.png)
+
 
 ## Contributing
 
