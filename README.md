@@ -5,14 +5,18 @@ Classify emails as spam or legitimate in real-time using natural language proces
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Technologies/Tools Used](#technologies-tools-used)
-- [Description](#description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
+- [Email Spam Classifier](#email-spam-classifier)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Technologies/Tools Used](#technologiestools-used)
+  - [Description](#description)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Screenshots](#screenshots)
+  - [Contributing](#contributing)
+  - [License](#license)
+- [This project is licensed under the MIT License.](#this-project-is-licensed-under-the-mit-license)
+- [QSkill-Internship-Task-2](#qskill-internship-task-2)
 
 ## Introduction
 
@@ -57,8 +61,8 @@ This project utilizes a trained machine learning model to classify emails. The t
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 1](screenshots/Notspam.png)
+![Screenshot 2](screenshots/Spam.png)
 
 ## Contributing
 
