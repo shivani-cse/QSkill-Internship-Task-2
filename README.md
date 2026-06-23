@@ -15,8 +15,6 @@ Classify emails as spam or legitimate in real-time using natural language proces
   - [Screenshots](#screenshots)
   - [Contributing](#contributing)
   - [License](#license)
-- [This project is licensed under the MIT License.](#this-project-is-licensed-under-the-mit-license)
-- [QSkill-Internship-Task-2](#qskill-internship-task-2)
 
 ## Introduction
 
@@ -72,6 +70,3 @@ Contributions are welcome! Please fork the repository and create a pull request 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-=======
-# QSkill-Internship-Task-2
->>>>>>> e20b5add8fd73e296bf6fc765bf07af5e9115214
