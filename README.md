@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Email Spam Classifier
 
 Classify emails as spam or legitimate in real-time using natural language processing (NLP), data analytics, and machine learning (ML) techniques.
@@ -66,3 +67,6 @@ Contributions are welcome! Please fork the repository and create a pull request 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+=======
+# QSkill-Internship-Task-2
+>>>>>>> e20b5add8fd73e296bf6fc765bf07af5e9115214
